@@ -37,6 +37,7 @@ I am a robot
 * PS: When I wrote the script,I was not even heard makedown  
   so the gammers which I used was not so wise and confuse :-)
 
+
 **Image2Ascii.py**
 * A script to convert an image to txt
 * Usage:
@@ -46,7 +47,8 @@ python Image2Ascii.py -h
 ## 通常转换(normal convert)
 python Image2Ascii.py -f imagename ToTxtname
 ## 压缩率为2(compression 2)
-python Image2Ascii.py -f imagename Totxtname 2```
+python Image2Ascii.py -f imagename Totxtname 2
+```
 
 **PvToTxt**
 * A script to convert a pv to txt and you can play it by vim
@@ -56,4 +58,5 @@ python Image2Ascii.py -f imagename Totxtname 2```
 ```python
 python PvToTxt videoname ToTxtfilename
 vim ToTxtfilename
-:source ./control.vim```
+:source ./control.vim
+```
