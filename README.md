@@ -15,23 +15,25 @@ __TxtToHtml.py__
   a file which name is yourfile.sanae open and copy it
 * You can use these gammers:  
 
-	# To insert codes.Default is python
-	<code>
-	somecodes
-	</code>
-	# Short Codes
-	<scode>
-	somecodes
-	</scode>
-	# Content.Defalut is MS YaHei
-	I am a robot
-	# Insert image.You can ignore width and height
-	# But if you get a width,the image will be center
-	<img>
-	<src="the link" width="xxx" height="xxx">
-	</img>
-	# Insert link
-	<href="the link">title</href>
+```python
+# To insert codes.Default is python
+<code>
+somecodes
+</code>
+# Short Codes
+<scode>
+somecodes
+</scode>
+# Content.Defalut is MS YaHei
+I am a robot
+# Insert image.You can ignore width and height
+# But if you get a width,the image will be center
+<img>
+<src="the link" width="xxx" height="xxx">
+</img>
+# Insert link
+<href="the link">title</href>
+```
 
 * PS: When I wrote the script,I was not even heard makedown  
   so the gammers which I used was not so wise and confuse :-)
