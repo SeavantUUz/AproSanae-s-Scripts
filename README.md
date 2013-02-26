@@ -13,8 +13,8 @@ __Some python scripts which I wrote.__
 * It was writed to make write blogs become convenient
 * Usage: python TxtToHtml.py yourfile and will generate a file which name is yourfile.sanae.Please open and copy it
 * You can use these gammers:  
-- only a test
--- more
+  - only a test
+  - more
 
 ```python
 # To insert codes.Default is python
