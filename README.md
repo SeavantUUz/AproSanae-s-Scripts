@@ -62,3 +62,14 @@ python PvToTxt videoname ToTxtfilename
 vim ToTxtfilename
 :source ./control.vim
 ```
+
+**Lexer.py**
+* A simple Lexer came from Compilers . I rewrited it by python
+* Usage:
+`python Lexer.py`
+
+**Paser.py**
+* A script get a infix expression and print it's postfix expression
+* only suppose + and -
+* Usage:
+`python Paser.py`
